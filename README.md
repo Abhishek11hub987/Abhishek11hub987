@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Abhishek Yadav
+# 💫 Hi 👋
 - 🔭 **I’m currently working on:** Integrating foundational Artificial Intelligence concepts with programming to build unique intelligent applications.
 - 🌱 **I’m currently learning:** Machine Learning basics, AI algorithms, and exploring how to optimize CPU instruction cycles for AI workloads as part of my BCA studies.
 - 👯 **I’m looking to collaborate on:** Open-source AI projects
